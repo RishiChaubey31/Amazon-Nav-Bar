@@ -1,0 +1,37 @@
+.navigation_bar{
+    background-color:rgb(1, 1, 44) ;
+    height:60px;
+    width: none; 
+    
+
+}
+.logo{
+    
+    color: rgb(222, 151, 18);
+    text-decoration: none;
+    font-size: 25px;
+    
+    
+}
+
+.search{
+    background-color: rgb(222, 151, 18); 
+    color:white
+}
+a{
+    margin-right: 240px;
+    color:whitesmoke;
+    text-decoration: none;
+}
+
+footer{
+text-align: center;
+color: rgb(142, 142, 142);
+background-color:rgb(1, 1, 44) ;
+height: 150px;
+position:absolute;;
+bottom: 0px;
+width: 100%;
+
+}
+
